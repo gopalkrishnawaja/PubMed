@@ -1,0 +1,12 @@
+llama-index
+python-dotenv
+scikit-learn
+langchain-openai
+langchain
+packaging>=23.2,<24.0
+openai
+transformers
+ray[tune]
+llama-index-llms-langchain
+llama-index-experimental==0.1.3
+
