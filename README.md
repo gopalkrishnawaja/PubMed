@@ -12,7 +12,7 @@ This project is focused on optimizing the performance of a question-answering sy
 
 `gimini.py`: The Python script that loads the dataset, defines the objective function for hyperparameter optimization, and runs the ParamTuner and RayTuneParamTuner for Google's `gemini-pro` llm.
 
-`test_mistral` : Started to implement experimentation of mistral but fell short of time.
+`test_mistral.py` : Started to implement experimentation of mistral but fell short of time.
 
 `Results.docx` : Tabulates the results of hyperparameter tuning for openai and gemini.
 
