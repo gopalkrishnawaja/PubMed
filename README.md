@@ -16,6 +16,6 @@ This project is focused on optimizing the performance of a question-answering sy
 
 `Results.docx` : Tabulates the results of hyperparameter tuning for openai and gemini.
 
-`PubMedQA.pptx` : Contains the explanation of the project implementation
+`PubMedQA.pptx` : Contains the explanation of the project implementation.
 
-`requirement.txt` : Used to setup environment
+`requirement.txt` : Used to setup python environment.
